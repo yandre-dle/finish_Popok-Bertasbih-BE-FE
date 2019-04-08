@@ -1,0 +1,161 @@
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be> npm install --save cors body-parser express mysqljs/mysql
+npm WARN saveError ENOENT: no such file or directory, open 'D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be\package.json'
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN enoent ENOENT: no such file or directory, open 'D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be\package.json'
+npm WARN uangkunoapi-be No description
+npm WARN uangkunoapi-be No repository field.
+npm WARN uangkunoapi-be No README data
+npm WARN uangkunoapi-be No license field.
+
++ body-parser@1.18.3
++ cors@2.8.5
++ express@4.16.4
++ mysql@2.16.0
+added 62 packages from 49 contributors and audited 167 packages in 27.092s
+found 0 vulnerabilities
+
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be> dir
+
+
+    Directory: D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----          3/6/2019   3:12 PM            node_modules
+-a---          3/6/2019   3:12 PM      16864 package-lock.json
+
+
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be> dir
+
+
+    Directory: D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----          3/6/2019   3:12 PM            node_modules
+-a---          3/6/2019   3:12 PM      16864 package-lock.json
+
+
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be> npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help json` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (uangkunoapi-be)
+version: (1.0.0)
+description:
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author:
+license: (ISC)
+About to write to D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be\package.json:
+
+{
+  "name": "uangkunoapi-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes)
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be>
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be> dir
+
+
+    Directory: D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----          3/6/2019   3:12 PM            node_modules
+-a---          3/6/2019   3:12 PM      16864 package-lock.json
+-a---          3/6/2019   3:15 PM        361 package.json
+
+
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be>
+
+==============>>>
+
+
+
+Windows PowerShell
+Copyright (C) 2014 Microsoft Corporation. All rights reserved.
+
+PS d:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be> dir
+
+
+    Directory: D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----          3/6/2019   3:12 PM            node_modules
+-a---          3/6/2019   3:17 PM       3106 cara installnya.txt
+-a---          3/6/2019   3:26 PM        143 index.js
+-a---          3/6/2019   3:12 PM      16864 package-lock.json
+-a---          3/6/2019   3:15 PM        361 package.json
+
+
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be> dir
+
+
+    Directory: D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----          3/6/2019   3:12 PM            node_modules
+-a---          3/6/2019   3:17 PM       3106 cara installnya.txt
+-a---          3/6/2019   3:26 PM        143 index.js
+-a---          3/6/2019   3:12 PM      16864 package-lock.json
+-a---          3/6/2019   3:15 PM        361 package.json
+
+
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be> npm install express-bearer-token
+npm WARN uangkunoapi-be@1.0.0 No description
+npm WARN uangkunoapi-be@1.0.0 No repository field.
+
++ express-bearer-token@2.2.0
+added 1 package and audited 168 packages in 1.601s
+found 0 vulnerabilities
+
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be> npm install jsonwebtoken
+npm WARN uangkunoapi-be@1.0.0 No description
+npm WARN uangkunoapi-be@1.0.0 No repository field.
+
++ jsonwebtoken@8.5.0
+added 14 packages from 9 contributors and audited 185 packages in 2.446s
+found 0 vulnerabilities
+
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be> npm install nodemailer
+npm WARN uangkunoapi-be@1.0.0 No description
+npm WARN uangkunoapi-be@1.0.0 No repository field.
+
++ nodemailer@5.1.1
+added 1 package from 1 contributor and audited 186 packages in 2.411s
+found 0 vulnerabilities
+
+PS D:\jual uang kuno\Revisi-6 ke be\uangkunoapi-be>
